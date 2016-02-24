@@ -59,7 +59,7 @@ Nevertheless, we highly recommend building the binaries from source in order to 
 ##### Steps
 
 1. Clone the [project repository](https://github.com/eclipse/dirigible.git) or [download the latest release](https://github.com/eclipse/dirigible/archive/master.zip).
-2. Go to the `org.eclipse.dirigible/org.eclipse.dirigible.parent` folder.
+2. Go to the `org.eclipse.dirigible/org.eclipse.dirigible.parent` folder in the file system. Open a command window there.
 3. Build the project with:
 
         mvn clean install
